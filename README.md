@@ -1,13 +1,4 @@
-- 👋 Hi, I’m @rohansaini886 
-- Hello World I am Rohan Saini student of CSE at UIET Kurukshetra University Kurukshetra. I am also getting B.Sc onlinedegree in Data Science and Programming from IIT Madras.
-- 👀 I’m interested in ...
-- Intrested in learning ML, Data Analysis, AI and Programming.
-- 🌱 I’m currently learning ...
-- Learning Python🐍 and staistics important for Data sciencetis🤔🤓
-- 💞️ I’m looking to collaborate on ...
-Just Beginner joined yet😆😆😆😆
-- 📫 How to reach me ...
-- https://www.linkedin.com/in/rohan-saini-22b461201
-- www.rohansaini.bookmark.com
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+I am ROHAN SAINI from Jagadhri, Yamunanagar, Haryana. I am currently in junior year of B.Tech in Computer Science and Engineering From University Institute of Enigineering and Technology, Kururkshetra University Kurukshetra and also getting B.Sc in Data Science and programming from IIT Madras.
 
->
+
