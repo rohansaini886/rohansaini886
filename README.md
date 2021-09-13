@@ -3,7 +3,7 @@
 
 
 <a href="https://www.linkedin.com/in/rohan-saini-22b461201/">
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height = 75 width = 75
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height = 50 width = 50
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 </a>
