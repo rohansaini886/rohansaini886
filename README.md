@@ -28,7 +28,7 @@
 
 ## 💼 Skills
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikiversity.org%2Fwiki%2FPython&psig=AOvVaw3JSrkj3shTGAl6qJn6KOyw&ust=1631601617970000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDgzOqr-_ICFQAAAAAdAAAAABAD"
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
