@@ -2,6 +2,7 @@
 <h3>I am ROHAN SAINI from Jagadhri, Yamunanagar, Haryana. I am currently in Sophomore year of B.Tech in Computer Science and Engineering From University Institute of Enigineering and Technology, Kururkshetra University Kurukshetra and at the foundational level of B.Sc(ONLINEDEGREE) in Data Science and programming from IIT Madras.</h3>
 
 
+<h3> CONNECT WITH ME ON:- </h3>
 <a href="https://www.linkedin.com/in/rohan-saini-22b461201/">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height = 50 width = 50
      alt="Markdown Monster icon"
