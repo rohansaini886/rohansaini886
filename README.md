@@ -28,7 +28,9 @@
 
 ## 💼 Skills
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikiversity.org%2Fwiki%2FPython&psig=AOvVaw2PweB2ltjG57Q-Vz9LSP9a&ust=1631600502309000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODrjNan-_ICFQAAAAAdAAAAABAJ)
+<img src="markdownmonstericon.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
