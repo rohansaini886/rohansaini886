@@ -34,7 +34,7 @@
 <img src="https://pbs.twimg.com/profile_images/1410632439370641409/Pt-7RucE_400x400.jpg" height = 50 width = 50
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-<img https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" height = 50 width = 50
+<img src = "https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" height = 50 width = 50
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height = 50 width = 50
