@@ -8,10 +8,15 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 </a>
+<a href="https://www.hackerrank.com/rohansaini886?hr_r=1/">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScmz3mtPUDfWEeOxWU5vbDNOj3xM2L7PxzcA&usqp=CAU" height = 50 width = 50
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+</a>
 
 
 
-## &#x1f4c8; GitHub Stats
+## <h1> &#x1f4c8; GitHub Stats </h1>
 
 <br>
 
@@ -29,28 +34,27 @@
 <br>
 
 
-## Passion
+## <h1> Passion 🤓 </h1>
 
 
-<h3>Python Lover with having dream of aspiring Data Scientist and Data Analyst. Also trying to becoming an all rounder web-developer (FULL_STACK WEB-DEVELOPER)</h3>
-
-<br>
-<h3>Python Lover</h3>
-<img src="https://octodex.github.com/images/pythocat.png" height = 450 width = 450
+<img src="https://octodex.github.com/images/pythocat.png" height = 400 width = 400
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+<img src="https://octodex.github.com/images/privateinvestocat.jpg" height = 400 width = 400
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
      
+ 
+<h3> Pyhton Lover &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One Man Army Full-Stack Developer</h3>
+    
+
 <br>
-<h3>One Man Army Full-Stack Developer<h3>
-<img src="https://octodex.github.com/images/privateinvestocat.jpg" height = 450 width = 450
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
 <br>
 
 
 
 
-## 💼 Skills
+## <h1> 🧰 Toolkit  <h1>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height = 50 width = 50
      alt="Markdown Monster icon"
