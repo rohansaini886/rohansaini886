@@ -30,14 +30,23 @@
 
 
 ## Passion
+
+
+<h3>Python Lover with having dream of aspiring Data Scientist and Data Analyst. Also trying to becoming an all rounder web-developer (FULL_STACK WEB-DEVELOPER)</h3>
+
 <br>
-<h4>Python Lover with having dream of aspiring Data Scientist and Data Analyst. Also trying to becoming an all rounder web-developer (FULL_STACK WEB-DEVELOPER)</h4></br>
-<img src="https://octodex.github.com/images/pythocat.png" height = 50 width = 50
+<h3>Python Lover</h3>
+<img src="https://octodex.github.com/images/pythocat.png" height = 450 width = 450
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-<img src="https://octodex.github.com/images/stormtroopocat.png" height = 50 width = 50
+     
+<br>
+<h3>One Man Army Full-Stack Developer<h3>
+<img src="https://octodex.github.com/images/privateinvestocat.jpg" height = 450 width = 450
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
+<br>
+
 
 
 
