@@ -23,8 +23,6 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohansaini886)](https://github.com/rohansaini886)
-
-
 ![Rohan Saini's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohansaini886&show_icons=true&theme=highcontrast)
 
 <br>
