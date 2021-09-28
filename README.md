@@ -37,6 +37,9 @@
 
 ## <h1> Passionate 🤓 </h1>
 
+     
+ 
+<h3> Pyhton Lover and One Man Army Full-Stack Developer</h3>
 
 <img src="https://octodex.github.com/images/pythocat.png" height = 400 width = 400
      alt="Markdown Monster icon"
@@ -44,9 +47,7 @@
 <img src="https://octodex.github.com/images/privateinvestocat.jpg" height = 400 width = 400
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-     
- 
-<h3> Pyhton Lover and One Man Army Full-Stack Developer</h3>
+
     
 
 <br>
