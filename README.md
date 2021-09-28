@@ -1,3 +1,4 @@
+<div align = "centre">
 <h1> # Hello, DEVS! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> </h1>
 <img align="right" alt="GIF" src="https://github.com/sailendrachettri/sailendrachettri/blob/main/dev.gif?raw=true" min-width="500" min-height="320" />
 <p><h3>I am ROHAN SAINI from Jagadhri, Yamunanagar, Haryana. I am currently in Sophomore year of B.Tech in Computer Science and Engineering From University Institute of Enigineering and Technology, Kururkshetra University Kurukshetra and at the foundational level of B.Sc(ONLINEDEGREE) in Data Science and programming from IIT Madras.</h3></p>
@@ -21,13 +22,11 @@
 
 <br>
 
-<a href="https://https:/github.com/rohansaini886">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansaini886&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohansaini886)](https://github.com/rohansaini886)
 
-<a href="https://github.com/rohansaini886">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=rohansaini886&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
+
+![Rohan Saini's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohansaini886&show_icons=true&theme=highcontrast)
+
 <br>
 <br>
 
