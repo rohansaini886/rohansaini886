@@ -1,5 +1,7 @@
-<div align = "centre">
-<h1> # Hello, DEVS! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> </h1>
+<h1># Hello, DEVS! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> </h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+Print&color=2EA8EC&size=120&center=true&vCenter=true&width=1700&height=400&lines=Hello+I'm+Rohan+Saini;Python+Developer;Web-Developer;Data-Science+Enthusiastic)](https://git.io/typing-svg)
+
 <img align="right" alt="GIF" src="https://github.com/sailendrachettri/sailendrachettri/blob/main/dev.gif?raw=true" min-width="500" min-height="320" />
 <p><h3>I am ROHAN SAINI from Jagadhri, Yamunanagar, Haryana. I am currently in Sophomore year of B.Tech in Computer Science and Engineering From University Institute of Enigineering and Technology, Kururkshetra University Kurukshetra and at the foundational level of B.Sc(ONLINEDEGREE) in Data Science and programming from IIT Madras.</h3></p>
 
@@ -15,7 +17,6 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 </a>
-
 
 
 ## <h1> &#x1f4c8; GitHub Stats </h1>
@@ -43,7 +44,7 @@
 
 <img src="https://octodex.github.com/images/pythocat.png" height = 400 width = 400
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-left: 10px;" />
 <img src="https://octodex.github.com/images/privateinvestocat.jpg" height = 400 width = 400
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
