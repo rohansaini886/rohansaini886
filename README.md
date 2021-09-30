@@ -3,8 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+Print&color=2EA8EC&size=120&center=true&vCenter=true&width=1700&height=400&lines=Hello+I'm+Rohan+Saini;Python+Developer;Web-Developer;Data-Science+Enthusiastic)](https://git.io/typing-svg)
 
 <img align="right" alt="GIF" src="https://github.com/sailendrachettri/sailendrachettri/blob/main/dev.gif?raw=true" min-width="500" min-height="320" />
-<p><h3>I am ROHAN SAINI from Jagadhri, Yamunanagar, Haryana. I am currently in Sophomore year of B.Tech in Computer Science and Engineering From University Institute of Enigineering and Technology, Kururkshetra University Kurukshetra and at the foundational level of B.Sc(ONLINEDEGREE) in Data Science and programming from IIT Madras.</h3></p>
+<p><h3>I am ROHAN SAINI from Jagadhri, Yamunanagar, Haryana. I am currently in Sophomore year of B.Tech in Computer Science and Engineering From University Institute of Enigineering and Technology, Kururkshetra University Kurukshetra and at the foundational level of B.Sc (ONLINEDEGREE) in Data Science and programming from IIT Madras.</h3></p>
 
+<h3>
+Linkedin Skilled at :- 
+<ol>
+<li>Pyhton</li>
+<li>C\C++</li>
+<li>HTML</li>
+<li>SQL</li>
+</ol>
+</h3>
 
 <h3> CONNECT WITH ME ON:- </h3>
 <a href="https://www.linkedin.com/in/rohan-saini-22b461201/">
@@ -36,12 +45,9 @@
 <br>
 
 
-## <h1> Passionate 🤓 </h1>
+## <h1> Passionate 🤓 Gallery </h1>
 
-     
  
-<h3> Pyhton Lover and One Man Army Full-Stack Developer</h3>
-
 <img src="https://octodex.github.com/images/pythocat.png" height = 400 width = 400
      alt="Markdown Monster icon"
      style="float: left; margin-left: 10px;" />
