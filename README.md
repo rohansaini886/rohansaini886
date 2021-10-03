@@ -30,6 +30,7 @@ Linkedin Skilled at :-
      style="float: left; margin-right: 10px;" />
 </a>
 
+<div align="center">
 
 ## <h1> &#x1f4c8; GitHub Stats </h1>
 
