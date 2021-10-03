@@ -36,7 +36,7 @@ Linkedin Skilled at :-
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohansaini886)](https://github.com/rohansaini886)
-![Rohan Saini's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohansaini886&show_icons=true&theme=highcontrast)
+![Rohan Saini's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohansaini886&show_icons=true&title_color=4810ff&text_color=10ffff&icon_color=8714e6&border_color=3cff00&bg_color=000000&hide_border=true)
 
 [![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohansaini886&bg_color=000000&color=10ffff&line=4810ff&point=38f000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -51,7 +51,7 @@ Linkedin Skilled at :-
 <img src= "https://raw.githubusercontent.com/rohansaini886/rohansaini886/output/github-contribution-grid-snake.gif">
 <br>
 
-
+<!---
 ## <h1> Passionate 🤓 Gallery </h1>
 
  
@@ -67,7 +67,7 @@ Linkedin Skilled at :-
 <br>
 <br>
 
-
+--->
 
 
 ## <h1> 🧰 Toolkit  <h1>
