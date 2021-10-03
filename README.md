@@ -38,6 +38,10 @@ Linkedin Skilled at :-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohansaini886)](https://github.com/rohansaini886)
 ![Rohan Saini's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohansaini886&show_icons=true&theme=highcontrast)
 
+[![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohansaini886&bg_color=000000&color=10ffff&line=4810ff&point=38f000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 <br>
 <br>
 
