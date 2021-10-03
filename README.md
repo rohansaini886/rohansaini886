@@ -36,7 +36,7 @@ Linkedin Skilled at :-
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohansaini886)](https://github.com/rohansaini886)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohansaini886&theme=highcontrast)](https://github.com/rohansaini886)
 ![Rohan Saini's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohansaini886&show_icons=true&title_color=4810ff&text_color=10ffff&icon_color=8714e6&border_color=3cff00&bg_color=000000&hide_border=true)
 
 <img src= "https://raw.githubusercontent.com/rohansaini886/rohansaini886/output/github-contribution-grid-snake.gif">
