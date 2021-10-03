@@ -53,6 +53,7 @@ Linkedin Skilled at :-
 <img src= "https://raw.githubusercontent.com/rohansaini886/rohansaini886/output/github-contribution-grid-snake.gif" >
 <br>
 --->
+
 <!---
 ## <h1> Passionate 🤓 Gallery </h1>
 
@@ -74,27 +75,41 @@ Linkedin Skilled at :-
 
 ## <h1> 🧰 Toolkit  <h1>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height = 50 width = 50
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height = 75 width = 75
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-<img src="https://pbs.twimg.com/profile_images/1410632439370641409/Pt-7RucE_400x400.jpg" height = 50 width = 50
+<img src="https://pbs.twimg.com/profile_images/1410632439370641409/Pt-7RucE_400x400.jpg" height = 75 width = 75
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" height = 50 width = 50
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" height = 75 width = 75
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height = 50 width = 50
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height = 75 width = 75
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" height = 50 width = 50
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" height = 75 width = 75
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-<img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" height = 50 width = 50
+<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" height = 75 width = 75
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-<img src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" height = 50 width = 50
+<img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" height = 75 width = 75
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-<img src="https://files.realpython.com/media/django-pony.c61d43c33ab3.png" height = 50 width = 50
+<img src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" height = 75 width = 75
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
+<img src="https://cdn.freebiesupply.com/logos/thumbs/2x/flask-logo.png" height = 75 width = 75
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+<img src="https://files.realpython.com/media/django-pony.c61d43c33ab3.png" height = 75 width = 75
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+<img src="https://www.clipartmax.com/png/middle/476-4762219_microsoft-excel-icon-free-download-png-and-vector-spreadsheet-powerpoint-logo-png.png" height = 75 width = 75
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" height = 75 width = 75
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
+
