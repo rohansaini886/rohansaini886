@@ -1,4 +1,4 @@
-<h1># Hello, DEVS! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> </h1>
+<h1><p align = "centre"># Hello, DEVS! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> </p></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+Print&color=2EA8EC&size=110&center=true&vCenter=true&width=1700&height=400&lines=Hello+I'm+Rohan+Saini;Python+Developer;Web-Developer;Data-Science+Enthusiastic)](https://git.io/typing-svg)
 
