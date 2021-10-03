@@ -1,4 +1,6 @@
+
 <h1><p align = "centre"># Hello, DEVS! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> </p></h1>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+Print&color=2EA8EC&size=110&center=true&vCenter=true&width=1700&height=400&lines=Hello+I'm+Rohan+Saini;Python+Developer;Web-Developer;Data-Science+Enthusiastic)](https://git.io/typing-svg)
 
@@ -32,6 +34,10 @@ Linkedin Skilled at :-
 
 <div align="center">
 
+     
+![](https://komarev.com/ghpvc/?username=rohansaini886&color=10ffff)     
+     
+     
 ## <h1> &#x1f4c8; GitHub Stats </h1>
 
 <br>
