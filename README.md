@@ -52,10 +52,7 @@ Linkedin Skilled at :-
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohansaini886&theme=white)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 <br>
-<img src = "https://metrics.lecoq.io/rohansaini886?template=classic&repositories=15&repositories.batch=15&languages=1&followup=1&isocalendar=1&repositories=1&repositories=15&repositories.batch=15&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.details=percentage&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&repositories.featured=portfolio-website%2C%20Data-Science-For-Beginners&config.timezone=Asia%2FCalcutta" height = 1300 width = 800>
-
-<br>
-
+<img src = "https://metrics.lecoq.io/rohansaini886?template=classic&repositories=15&repositories.batch=15&languages=1&followup=1&isocalendar=1&repositories=1&repositories=15&repositories.batch=15&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.details=percentage&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&repositories.featured=portfolio-website%2C%20Data-Science-For-Beginners&config.timezone=Asia%2FCalcutta" height = 1150 width = 800>
 
 <img src= "https://raw.githubusercontent.com/rohansaini886/rohansaini886/output/github-contribution-grid-snake.gif" width = 800>
 
@@ -63,8 +60,6 @@ Linkedin Skilled at :-
 
 --->
 <br>
-<br>
-     
 <h2>Highlights</h2>
 <a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
