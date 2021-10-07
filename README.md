@@ -20,7 +20,7 @@ Linkedin Skilled at :-
 </ol>
 </h3>
 
-<h3> CONNECT WITH ME ON:- </h3>
+<h3> CONNECT WITH ME <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"></h3>
 <a href="https://www.linkedin.com/in/rohan-saini-22b461201/">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height = 50 width = 50
      alt="Markdown Monster icon"
@@ -31,12 +31,33 @@ Linkedin Skilled at :-
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 </a>
+<a href="https://github.com/rohansaini886" class="pics">
+<img src="https://cdn.dribbble.com/users/511295/screenshots/2629099/octocat-wave-dribbble.gif" height = 60 width = 75
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+</a>
+<a href="http://rohansaini.me" class="pics">
+<img src="https://i.pinimg.com/originals/00/50/71/005071cbf1fdd17673607ecd7b7e88f6.png" height = 50 width = 50
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+</a>
 
 <div align="center">
 
      
 ![](https://komarev.com/ghpvc/?username=rohansaini886&color=10ffff)     
      
+## <h1> GITHUB PROFILE</h1>
+     
+[![trophy](https://github-profile-trophy.vercel.app/?username=rohansaini886&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
+<br>
+![GitHub metrics](https://metrics.lecoq.io/rohansaini886)
+<br>
+<h2>Highlights</h2>
+<a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+
+<br>
      
 ## <h1> &#x1f4c8; GitHub Stats </h1>
 
@@ -50,13 +71,9 @@ Linkedin Skilled at :-
 [![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohansaini886&bg_color=000000&color=10ffff&line=4810ff&point=38f000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<br>
+<br>
 
-<br>
-<br>
-     
-##<h1> GITHUB PROFILE</h1>
-     
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohansaini886&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!---
@@ -86,7 +103,7 @@ Linkedin Skilled at :-
 --->
 
 
-## <h1> 🧰 Toolkit  <h1>
+## <h1> 🧰 Toolkit <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> <h1>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height = 75 width = 75
      alt="Markdown Monster icon"
