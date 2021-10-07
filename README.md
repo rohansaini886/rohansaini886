@@ -52,29 +52,24 @@ Linkedin Skilled at :-
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohansaini886&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 <br>
-![GitHub metrics](https://metrics.lecoq.io/rohansaini886)
+<img src = "https://metrics.lecoq.io/rohansaini886?template=classic&repositories=15&repositories.batch=15&languages=1&followup=1&isocalendar=1&repositories=1&repositories=15&repositories.batch=15&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.details=percentage&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&repositories.featured=portfolio-website%2C%20Data-Science-For-Beginners&config.timezone=Asia%2FCalcutta" height = 1300 width = 800>
+
 <br>
+
+
+<img src= "https://raw.githubusercontent.com/rohansaini886/rohansaini886/output/github-contribution-grid-snake.gif" width = 800>
+
+[![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohansaini886&bg_color=000000&color=10ffff&line=4810ff&point=38f000&area=true&hide_border=true&width)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<br>
+<br>
+     
 <h2>Highlights</h2>
 <a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
 <br>
      
-## <h1> &#x1f4c8; GitHub Stats </h1>
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohansaini886&theme=highcontrast)](https://github.com/rohansaini886)
-![Rohan Saini's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohansaini886&show_icons=true&title_color=4810ff&text_color=10ffff&icon_color=8714e6&border_color=3cff00&bg_color=000000&hide_border=true)
-
-<img src= "https://raw.githubusercontent.com/rohansaini886/rohansaini886/output/github-contribution-grid-snake.gif">
-
-[![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohansaini886&bg_color=000000&color=10ffff&line=4810ff&point=38f000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<br>
-<br>
-
-
 
 <!---
 ## <h1> Feeding python 🐍 my commits so I've to commit more daily 😅 </h1>
