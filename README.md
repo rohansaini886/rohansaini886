@@ -49,7 +49,7 @@ Linkedin Skilled at :-
      
 ## <h1> GITHUB PROFILE</h1>
      
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohansaini886&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rohansaini886&theme=white)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 <br>
 <img src = "https://metrics.lecoq.io/rohansaini886?template=classic&repositories=15&repositories.batch=15&languages=1&followup=1&isocalendar=1&repositories=1&repositories=15&repositories.batch=15&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.details=percentage&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&repositories.featured=portfolio-website%2C%20Data-Science-For-Beginners&config.timezone=Asia%2FCalcutta" height = 1300 width = 800>
@@ -59,9 +59,9 @@ Linkedin Skilled at :-
 
 <img src= "https://raw.githubusercontent.com/rohansaini886/rohansaini886/output/github-contribution-grid-snake.gif" width = 800>
 
-[![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohansaini886&bg_color=000000&color=10ffff&line=4810ff&point=38f000&area=true&hide_border=true&width)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!---[![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohansaini886&bg_color=000000&color=10ffff&line=4810ff&point=38f000&area=true&hide_border=true&width)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+--->
 <br>
 <br>
      
