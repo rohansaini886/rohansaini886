@@ -53,6 +53,12 @@ Linkedin Skilled at :-
 
 <br>
 <br>
+     
+##<h1> GITHUB PROFILE</h1>
+     
+[![trophy](https://github-profile-trophy.vercel.app/?username=rohansaini886&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!---
 ## <h1> Feeding python 🐍 my commits so I've to commit more daily 😅 </h1>
 
