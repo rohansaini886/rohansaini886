@@ -54,7 +54,7 @@ Linkedin Skilled at :-
 <br>
 <img width = 100% src ="https://metrics.lecoq.io/rohansaini886?template=classic&isocalendar=1&languages=1&achievements=1&notable=1&followup=1&introduction=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&achievements.ignored=follower%2C%20influencer%2C%20maintainer&notable.filter=stars%3A%3E5%2C%20forks%3A%3E5&notable.repositories=false&config.timezone=Asia%2FCalcutta">
 
-<img src= "https://raw.githubusercontent.com/rohansaini886/rohansaini886/output/github-contribution-grid-snake.gif" width = 800>
+<img src= "https://raw.githubusercontent.com/rohansaini886/rohansaini886/output/github-contribution-grid-snake.gif" width = 100% >
 
 <!---[![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohansaini886&bg_color=000000&color=10ffff&line=4810ff&point=38f000&area=true&hide_border=true&width)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
