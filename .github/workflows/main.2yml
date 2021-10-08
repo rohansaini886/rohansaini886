@@ -35,7 +35,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_repositories: 15
-          plugin_repositories: yes
+          plugin_repositories_type: yes
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 15
           plugin_repositories_featured: portfolio-website, Data-Science-For-Beginners
