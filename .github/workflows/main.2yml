@@ -42,5 +42,4 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_notable: yes
           plugin_notable_filter: stars:>5, forks:>5
-          plugin_repositories: 100
-          plugin_repositories_featured: yes
+         
