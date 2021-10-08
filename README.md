@@ -32,7 +32,7 @@ Linkedin Skilled at :-
      style="float: left; margin-right: 10px;" />
 </a>
 <a href="https://github.com/rohansaini886" class="pics">
-<img src="https://cdn.dribbble.com/users/511295/screenshots/2629099/octocat-wave-dribbble.gif" height = 60 width = 75
+<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height = 50 width = 50
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 </a>
