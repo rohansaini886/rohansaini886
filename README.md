@@ -54,8 +54,8 @@ Linkedin Skilled at :-
 <br>
 <img width = 100% height = 100% src = "https://github.com/rohansaini886/rohansaini886/blob/main/github-metrics.svg">
 
-<img src= "https://raw.githubusercontent.com/rohansaini886/rohansaini886/output/github-contribution-grid-snake.gif" width = 100% >
-
+<img src= "https://github.com/rohansaini886/rohansaini886/blob/output/github-contribution-grid-snake.svg" width = 100% >
+<!---njdmrlmf--->
 <!---[![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohansaini886&bg_color=000000&color=10ffff&line=4810ff&point=38f000&area=true&hide_border=true&width)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 --->
