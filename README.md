@@ -59,10 +59,12 @@ Linkedin Skilled at :-
 <!---[![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohansaini886&bg_color=000000&color=10ffff&line=4810ff&point=38f000&area=true&hide_border=true&width)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 --->
+     
+<a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width=40 height=40></a>
 <br>
+    
 <h2>Highlights</h2>
-<a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
-
+<a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width=40 height=40></a>
 <br>
      
 
@@ -95,6 +97,7 @@ Linkedin Skilled at :-
 
 ## <h1> 🧰 Toolkit <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> <h1>
 
+<a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width=75 height=75></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height = 75 width = 75
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
