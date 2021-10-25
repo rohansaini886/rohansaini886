@@ -97,7 +97,7 @@ Linkedin Skilled at :-
 
 ## <h1> 🧰 Toolkit <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> <h1>
 
-<a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width=75 height=75></a>
+<img src='https://user-images.githubusercontent.com/83878702/138641385-7f446425-f423-4207-8781-03386f5d6f32.png' width=75 height=75>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height = 75 width = 75
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
@@ -139,6 +139,5 @@ Linkedin Skilled at :-
      style="float: left; margin-right: 10px;" />
 <img src="https://user-images.githubusercontent.com/83878702/138640021-bb4de5b6-624a-41e6-ada7-145a8dcb860c.png" height = 75 width = 75 >
 
-![Visual_Studio_Code_1 35_icon svg-removebg-preview]()
 
 
