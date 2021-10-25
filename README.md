@@ -101,7 +101,7 @@ Linkedin Skilled at :-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height = 75 width = 75
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-<img src="https://pbs.twimg.com/profile_images/1410632439370641409/Pt-7RucE_400x400.jpg" height = 75 width = 75
+<img src="https://user-images.githubusercontent.com/83878702/138640431-55dba451-411f-4965-a40e-4984c3606e63.png" height = 75 width = 75
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" height = 75 width = 75
@@ -131,11 +131,14 @@ Linkedin Skilled at :-
 <img src="https://files.realpython.com/media/django-pony.c61d43c33ab3.png" height = 75 width = 75
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-<img src="https://www.clipartmax.com/png/middle/476-4762219_microsoft-excel-icon-free-download-png-and-vector-spreadsheet-powerpoint-logo-png.png" height = 75 width = 75
+<img src="https://user-images.githubusercontent.com/83878702/138640244-69e80b74-e167-454b-ba5f-01163b9f7f86.png" height = 75 width = 75
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" height = 75 width = 75
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
+<img src="https://user-images.githubusercontent.com/83878702/138640021-bb4de5b6-624a-41e6-ada7-145a8dcb860c.png" height = 75 width = 75 >
+
+![Visual_Studio_Code_1 35_icon svg-removebg-preview]()
 
 
