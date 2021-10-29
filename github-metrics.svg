@@ -2751,7 +2751,7 @@ ML learner || Competitive Programmer || Student at UIET-KUK and IIT-M (online) (
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.945 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.0225 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2775,12 +2775,12 @@ ML learner || Competitive Programmer || Student at UIET-KUK and IIT-M (online) (
                   
                     <div class="value-wrapper">
                       <div class="value">
-                        538
+                        539
                       </div>
                     </div>
                   
                 </div>
-                                <div class="text">Repositories have been deployed 538 times</div>
+                                <div class="text">Repositories have been deployed 539 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -3188,7 +3188,7 @@ ML learner || Competitive Programmer || Student at UIET-KUK and IIT-M (online) (
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Oct 2021, 12:47:26 (timezone Asia/Calcutta) with lowlighter/metrics@3.15.0</span>
+                <span>Last updated 29 Oct 2021, 13:50:57 (timezone Asia/Calcutta) with lowlighter/metrics@3.15.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
