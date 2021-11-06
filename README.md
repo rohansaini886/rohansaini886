@@ -49,7 +49,7 @@ Linkedin Skilled at :-
      
 ## <h1> GITHUB PROFILE</h1>
      
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohansaini886&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+<img src = "https://github-profile-trophy.vercel.app/?username=rohansaini886&theme=monokai" width = 100% >
 <br>
 <br>
 <img width = 100% height = 100% src = "https://github.com/rohansaini886/rohansaini886/blob/main/github-metrics.svg">
