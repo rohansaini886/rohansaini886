@@ -52,7 +52,7 @@ Linkedin Skilled at :-
 <img src = "https://github-profile-trophy.vercel.app/?username=rohansaini886&theme=monokai" width = "100%" >
 <br>
 <br>
-<img width = "100%" src = "https://github.com/rohansaini886/rohansaini886/blob/main/github-metrics.svg" >
+<img width = "100%" src = "github-metrics.svg" >
 
 <img width="100%" src="https://github.com/rohansaini886/rohansaini886/blob/output/github-contribution-grid-snake.svg" />
      
