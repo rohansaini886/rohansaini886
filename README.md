@@ -52,42 +52,10 @@ Linkedin Skilled at :-
 <img src = "https://github-profile-trophy.vercel.app/?username=rohansaini886&theme=monokai" width = "100%" >
 <br>
 <br>
-<img src = "https://github.com/rohansaini886/rohansaini886/blob/main/github-metrics.svg" width = "100%" >
+<img width = "100%" src = "https://github.com/rohansaini886/rohansaini886/blob/main/github-metrics.svg" >
 
-<img src= "https://github.com/rohansaini886/rohansaini886/blob/output/github-contribution-grid-snake.svg" width = "100%" >
-<!---njdmrlmf--->
-<!---[![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohansaini886&bg_color=000000&color=10ffff&line=4810ff&point=38f000&area=true&hide_border=true&width)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
---->
+<img width="100%" src="https://github.com/rohansaini886/rohansaini886/blob/output/github-contribution-grid-snake.svg" />
      
-
-<!---
-## <h1> Feeding python 🐍 my commits so I've to commit more daily 😅 </h1>
-
-<br>
-<img src= "https://raw.githubusercontent.com/rohansaini886/rohansaini886/output/github-contribution-grid-snake.gif" >
-<br>
---->
-
-<!---
-## <h1> Passionate 🤓 Gallery </h1>
-
- 
-<img src="https://octodex.github.com/images/pythocat.png" height = 400 width = 400
-     alt="Markdown Monster icon"
-     style="float: left; margin-left: 10px;" />
-<img src="https://octodex.github.com/images/privateinvestocat.jpg" height = 400 width = 400
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-
-    
-
-<br>
-<br>
-
---->
-
-
 <h1> 🧰 Toolkit <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h1>
 
 <img src='https://user-images.githubusercontent.com/83878702/138641385-7f446425-f423-4207-8781-03386f5d6f32.png' width=75 height=75>
