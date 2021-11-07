@@ -45,9 +45,9 @@ Linkedin Skilled at :-
 <div align="center">
 
      
-![](https://komarev.com/ghpvc/?username=rohansaini886&color=10ffff)     
+<img src = "https://komarev.com/ghpvc/?username=rohansaini886&color=100fff">  
      
-## <h1> GITHUB PROFILE</h1>
+<h1> GITHUB PROFILE</h1>
      
 <img src = "https://github-profile-trophy.vercel.app/?username=rohansaini886&theme=monokai" width = 100% >
 <br>
@@ -59,13 +59,6 @@ Linkedin Skilled at :-
 <!---[![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohansaini886&bg_color=000000&color=10ffff&line=4810ff&point=38f000&area=true&hide_border=true&width)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 --->
-     
-<a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width=40 height=40></a>
-<br>
-    
-<h2>Highlights</h2>
-<a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width=40 height=40></a>
-<br>
      
 
 <!---
@@ -95,7 +88,7 @@ Linkedin Skilled at :-
 --->
 
 
-## <h1> 🧰 Toolkit <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> <h1>
+<h1> 🧰 Toolkit <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h1>
 
 <img src='https://user-images.githubusercontent.com/83878702/138641385-7f446425-f423-4207-8781-03386f5d6f32.png' width=75 height=75>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height = 75 width = 75
@@ -137,7 +130,8 @@ Linkedin Skilled at :-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" height = 75 width = 75
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-<img src="https://user-images.githubusercontent.com/83878702/138640021-bb4de5b6-624a-41e6-ada7-145a8dcb860c.png" height = 75 width = 75 >
+<img src="https://user-images.githubusercontent.com/83878702/138640021-bb4de5b6-624a-41e6-ada7-145a8dcb860c.png" height = 75 width = 75alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 
 
