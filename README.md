@@ -49,12 +49,12 @@ Linkedin Skilled at :-
      
 <h1> GITHUB PROFILE</h1>
      
-<img src = "https://github-profile-trophy.vercel.app/?username=rohansaini886&theme=monokai" width = 100% >
+<img src = "https://github-profile-trophy.vercel.app/?username=rohansaini886&theme=monokai" width = "100%" >
 <br>
 <br>
-<img width = 100% height = 100% src = "https://github.com/rohansaini886/rohansaini886/blob/main/github-metrics.svg">
+<img src = "https://github.com/rohansaini886/rohansaini886/blob/main/github-metrics.svg" width = "100%" >
 
-<img src= "https://github.com/rohansaini886/rohansaini886/blob/output/github-contribution-grid-snake.svg" width = 100% >
+<img src= "https://github.com/rohansaini886/rohansaini886/blob/output/github-contribution-grid-snake.svg" width = "100%" >
 <!---njdmrlmf--->
 <!---[![Rohan's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohansaini886&bg_color=000000&color=10ffff&line=4810ff&point=38f000&area=true&hide_border=true&width)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -130,7 +130,8 @@ Linkedin Skilled at :-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" height = 75 width = 75
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-<img src="https://user-images.githubusercontent.com/83878702/138640021-bb4de5b6-624a-41e6-ada7-145a8dcb860c.png" height = 75 width = 75alt="Markdown Monster icon"
+<img src="https://user-images.githubusercontent.com/83878702/138640021-bb4de5b6-624a-41e6-ada7-145a8dcb860c.png" height = 75 width = 75 
+     alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
 
