@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+Print&color=2EA8EC&size=110&center=true&vCenter=true&width=1700&height=400&lines=Hello+I'm+Rohan+Saini;Python+Developer;Web-Developer;Data-Science+Enthusiastic)](https://git.io/typing-svg)
 
 <!---aa--->
+<!---aa--->
 <img align="right" alt="GIF" src="https://github.com/sailendrachettri/sailendrachettri/blob/main/dev.gif?raw=true" min-width="500" min-height="320" />
 <br>
 <h3><p align = "justify"> I am ROHAN SAINI from Jagadhri, Yamunanagar, Haryana. I am currently in Sophomore year of B.Tech in Computer Science and Engineering From University Institute of Enigineering and Technology, Kururkshetra University Kurukshetra and at the foundational level of B.Sc (ONLINEDEGREE) in Data Science and programming from IIT Madras.</p></h3>
