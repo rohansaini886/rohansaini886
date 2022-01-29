@@ -8,8 +8,19 @@
 <!---aa--->
 <img align="right" alt="GIF" src="https://github.com/sailendrachettri/sailendrachettri/blob/main/dev.gif?raw=true" min-width="500" min-height="320" />
 <br>
-<h3><p align = "justify"> I am ROHAN SAINI from Jagadhri, Yamunanagar, Haryana. I am currently in Sophomore year of B.Tech in Computer Science and Engineering From University Institute of Enigineering and Technology, Kururkshetra University Kurukshetra and at the foundational level of B.Sc (ONLINEDEGREE) in Data Science and programming from IIT Madras.</p></h3>
+<h3><p align = "justify"> I am ROHAN SAINI from Jagadhri, Yamunanagar, Haryana. I am currently in Sophomore year of B.Tech in Computer Science and Engineering From University Institute of Enigineering and Technology, Kururkshetra University Kurukshetra with 8.79 CGPA and at the Diploma level of B.Sc (ONLINEDEGREE) in Data Science and programming from IIT Madras with 7.6 CGPA.</p></h3>
 
+<!---<h3>
+Highly Skilled at :- 
+<ol>
+<li>Pyhton, Django, Flask</li>
+<li>C\C++, Problem Solving</li>
+<li>HTML, CSS, BootStrap</li>
+<li>MySQL</li>
+<li>Machine Learning, Computational Thinking</l1>
+<li>Git, GitHub</li>
+</ol>
+</h3>--->
 
 <h3>
 Linkedin Skilled at :- 
