@@ -6,23 +6,24 @@
 
 <!---aa--->
 <!---aa--->
-<img align="right" alt="GIF" src="https://github.com/sailendrachettri/sailendrachettri/blob/main/dev.gif?raw=true" min-width="500" min-height="320" />
 <br>
 <h3><p align = "justify"> I am ROHAN SAINI from Jagadhri, Yamunanagar, Haryana. I am currently in Sophomore year of B.Tech in Computer Science and Engineering From University Institute of Enigineering and Technology, Kururkshetra University Kurukshetra with 8.79 CGPA and at the Diploma level of B.Sc (ONLINEDEGREE) in Data Science and programming from IIT Madras with 7.6 CGPA.</p></h3>
-<div align = "right">
+
+<img align="right" alt="GIF" src="https://github.com/sailendrachettri/sailendrachettri/blob/main/dev.gif?raw=true" min-width="500" min-height="320" />
+
 <h3>
 Highly Skilled at :- 
 <ol>
-<li>Pyhton, Django, Flask</li>
-<li>C\C++, Problem Solving</li>
-<li>HTML, CSS, BootStrap</li>
-<li>MySQL</li>
+<li>Languages:- Pyhton, C\C++</li>
+<li>Front-End Web:- HTML, CSS, BootStrap</li>
+<li>Back-End Web:- Django, Flask</li>
+<li>DataBase :- MySQL</li>
+<li>Problem Solving</li>
 <li>Machine Learning, Computational Thinking</l1>
 <li>Git, GitHub</li>
 </ol>
 </h3>
-</div>
-<div align = "left">
+
 <h3>
 Linkedin Skilled at :- 
 <ol>
@@ -32,7 +33,7 @@ Linkedin Skilled at :-
 <li>SQL</li>
 </ol>
 </h3>
-</div>
+
 <h3> CONNECT WITH ME <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"></h3>
 <a href="https://www.linkedin.com/in/rohan-saini-22b461201/">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height = 50 width = 50
