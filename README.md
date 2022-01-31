@@ -19,7 +19,7 @@ Highly Skilled at :-
 <li>Back-End Web:- Django, Flask</li>
 <li>DataBase :- MySQL</li>
 <li>Problem Solving</li>
-<li>Machine Learning, Computational Thinking</l1>
+<li>Machine Learning, Computational Thinking</li>
 <li>Git, GitHub</li>
 </ol>
 </h3>
