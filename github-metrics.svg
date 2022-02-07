@@ -83,7 +83,7 @@ ML learner || Competitive Programmer || Student at UIET-KUK and IIT-M (online) (
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            633 Commits
+                            635 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -335,14 +335,14 @@ ML learner || Competitive Programmer || Student at UIET-KUK and IIT-M (online) (
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="170.12218668049914" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="170.12218668049914" y="0" width="137.74194787854336" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="307.86413455904244" y="0" width="64.68756904219859" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="372.55170360124106" y="0" width="47.478939127594785" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="420.0306427288358" y="0" width="23.169457172223662" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="443.20009990105945" y="0" width="12.52259781178256" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.72269771284203" y="0" width="3.7691517055224155" height="8" fill="#ecdebe"/>
-                    <rect mask="url(#languages-bar)" x="459.49184941836444" y="0" width="0.5081505816354956" height="8" fill="#E3F171"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="170.9911316273368" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="170.9911316273368" y="0" width="137.32904918786394" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="308.3201808152008" y="0" width="64.49365997548269" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="372.81384079068346" y="0" width="47.336615078148945" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="420.1504558688324" y="0" width="23.100003830830524" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="443.25045969966294" y="0" width="12.485059760956176" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.7355194606191" y="0" width="3.7578532025743185" height="8" fill="#ecdebe"/>
+                    <rect mask="url(#languages-bar)" x="459.49337266319344" y="0" width="0.5066273368066198" height="8" fill="#E3F171"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -354,7 +354,7 @@ ML learner || Competitive Programmer || Student at UIET-KUK and IIT-M (online) (
                                 Python
                             </div>
                             <small>
-                                <div>36.98%</div>
+                                <div>37.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -365,7 +365,7 @@ ML learner || Competitive Programmer || Student at UIET-KUK and IIT-M (online) (
                                 C++
                             </div>
                             <small>
-                                <div>14.06%</div>
+                                <div>14.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -376,7 +376,7 @@ ML learner || Competitive Programmer || Student at UIET-KUK and IIT-M (online) (
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>5.04%</div>
+                                <div>5.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -400,7 +400,7 @@ ML learner || Competitive Programmer || Student at UIET-KUK and IIT-M (online) (
                                 HTML
                             </div>
                             <small>
-                                <div>29.94%</div>
+                                <div>29.85%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -411,7 +411,7 @@ ML learner || Competitive Programmer || Student at UIET-KUK and IIT-M (online) (
                                 CSS
                             </div>
                             <small>
-                                <div>10.32%</div>
+                                <div>10.29%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -422,7 +422,7 @@ ML learner || Competitive Programmer || Student at UIET-KUK and IIT-M (online) (
                                 JavaScript
                             </div>
                             <small>
-                                <div>2.72%</div>
+                                <div>2.71%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1525,7 +1525,7 @@ ML learner || Competitive Programmer || Student at UIET-KUK and IIT-M (online) (
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="203.77333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="203.87666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1547,10 +1547,10 @@ ML learner || Competitive Programmer || Student at UIET-KUK and IIT-M (online) (
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">2972</div>
+                                        <div class="value">2973</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 2972 times</div>
+                                <div class="text">Repositories have been deployed 2973 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -1968,7 +1968,7 @@ ML learner || Competitive Programmer || Student at UIET-KUK and IIT-M (online) (
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Feb 2022, 22:48:29 (timezone Asia/Calcutta) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 7 Feb 2022, 23:51:31 (timezone Asia/Calcutta) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
