@@ -14,7 +14,7 @@
 <h3>
 Highly Skilled at :- 
 <ol>
-<li>Languages:- Pyhton, C\C++</li>
+<li>Languages:- Python, C\C++</li>
 <li>Front-End Web:- HTML, CSS, BootStrap</li>
 <li>Back-End Web:- Django, Flask</li>
 <li>DataBase :- MySQL</li>
