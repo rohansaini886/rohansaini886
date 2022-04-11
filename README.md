@@ -33,7 +33,7 @@ Linkedin Skilled at :-
 <li>SQL</li>
 </ol>
 </h3>
-<h3><p align = "justify"> Now Learnng Data Structures and Algorithms and Practising Concepts on Codeforces, Codechef, Hackerrank. Alongwith it also Learning Python back-end web development framework "Django" and creating major projects in it. Recently created a basic project <a href = "https://github.com/rohansaini886/Text-Utils-Django-Python.git"> text-utils-django-python</a> Please visit it to check my work. Follow me for more such awsome projects.</p></h3>
+<h3><p align = "justify"> Now Learnng Data Structures and Algorithms and Practising Concepts on Codeforces, Codechef, Hackerrank. Alongwith it also Learning Python back-end web development framework "Django" and creating major projects in it. Please visit repos. to check my work. Follow me for more such awsome projects.</p></h3>
 <h3> CONNECT WITH ME <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"></h3>
 <a href="https://www.linkedin.com/in/rohan-saini-22b461201/">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height = 50 width = 50
