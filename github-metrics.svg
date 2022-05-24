@@ -83,7 +83,7 @@ ML learner || Competitive Programmer || Student at UIET-KUK and IIT-M (online) (
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            718 Commits
+                            721 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -335,14 +335,14 @@ ML learner || Competitive Programmer || Student at UIET-KUK and IIT-M (online) (
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="441.28137557636717" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="441.28137557636717" y="0" width="6.943765177556991" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="448.22514075392417" y="0" width="4.654744476707867" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="452.87988523063206" y="0" width="3.842201735867946" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="456.7220869665" y="0" width="1.2452815457451172" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="457.9673685122451" y="0" width="1.2106789366376496" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.1780474488828" y="0" width="0.7300663160983957" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="459.9081137649812" y="0" width="0.09188623501885426" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="441.2813893062059" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="441.2813893062059" y="0" width="6.943760084406246" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="448.22514939061216" y="0" width="4.654741062520507" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="452.8798904531327" y="0" width="3.8421989176688656" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="456.72208937080154" y="0" width="1.2452806323492187" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="457.96737000315073" y="0" width="1.2106780486222617" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.17804805177303" y="0" width="0.7300657806053733" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="459.9081138323784" y="0" width="0.09188616762163757" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1536,7 +1536,7 @@ ML learner || Competitive Programmer || Student at UIET-KUK and IIT-M (online) (
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="336.96999999999997 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="337.0733333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1558,7 +1558,7 @@ ML learner || Competitive Programmer || Student at UIET-KUK and IIT-M (online) (
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 4261 times</div>
+                                <div class="text">Repositories have been deployed 4262 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -1804,7 +1804,7 @@ ML learner || Competitive Programmer || Student at UIET-KUK and IIT-M (online) (
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 May 2022, 00:45:42 (timezone Asia/Calcutta) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 25 May 2022, 01:51:49 (timezone Asia/Calcutta) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
