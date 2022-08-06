@@ -1519,7 +1519,7 @@ ML learner || Competitive Programmer || Student at UIET-KUK and IIT-M (online) (
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="504.37 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="504.4733333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1541,7 +1541,7 @@ ML learner || Competitive Programmer || Student at UIET-KUK and IIT-M (online) (
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 5881 times</div>
+                                <div class="text">Repositories have been deployed 5882 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -1714,7 +1714,7 @@ ML learner || Competitive Programmer || Student at UIET-KUK and IIT-M (online) (
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 851k out of 95m users</span>
+                                    <span class="gh">ranked 852k out of 95m users</span>
                                 </div>
                                 <div class="text">Published 36 public repositories</div>
                             </div>
@@ -1787,7 +1787,7 @@ ML learner || Competitive Programmer || Student at UIET-KUK and IIT-M (online) (
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Aug 2022, 10:46:37 (timezone Asia/Calcutta) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 6 Aug 2022, 11:52:37 (timezone Asia/Calcutta) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
