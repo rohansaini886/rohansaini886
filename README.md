@@ -31,6 +31,7 @@ Linkedin Skilled at :-
 <li>C\C++</li>
 <li>HTML</li>
 <li>SQL</li>
+<li>Django</li>
 </ol>
 </h3>
 <h3><p align = "justify"> Now Learnng Data Structures and Algorithms and Practising Concepts on Codeforces, Codechef, Hackerrank. Alongwith it also Learning Python back-end web development framework "Django" and creating major projects in it. Please visit repos. to check my work. Follow me for more such awsome projects.</p></h3>
